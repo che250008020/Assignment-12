@@ -21,7 +21,7 @@ int main() {
     Rectangle r1(l,b);
     Rectangle r2;
     cout<<"For default constructor: ";
-    r1.displayArea();
-    cout<<"For parameterized constructor: ";
     r2.displayArea();
+    cout<<"For parameterized constructor: ";
+    r1.displayArea();
 }
